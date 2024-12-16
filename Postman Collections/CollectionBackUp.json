@@ -73,7 +73,7 @@
 													"console.log(\"New String for testing Fork\")",
 													"",
 													"",
-													"//Update from fork 2 to Main 12341234"
+													""
 												],
 												"type": "text/javascript",
 												"packages": {}
@@ -385,7 +385,7 @@
 											"script": {
 												"id": "af85427e-4d9c-44be-a319-2489778cde8f",
 												"exec": [
-													""
+													"//Fork 2 to main"
 												],
 												"type": "text/javascript",
 												"packages": {}
