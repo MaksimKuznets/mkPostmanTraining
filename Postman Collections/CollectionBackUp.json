@@ -72,10 +72,8 @@
 												"exec": [
 													"console.log(\"New String for testing Fork\")",
 													"",
-													"//Changes from Fork",
 													"",
-													"",
-													"//Fork: Test String for changes and update Source"
+													"//Update from fork 2 to Main"
 												],
 												"type": "text/javascript",
 												"packages": {}
