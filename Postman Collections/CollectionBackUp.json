@@ -59,7 +59,8 @@
 													"    }\r",
 													"});\r",
 													"\r",
-													"console.log(\"New String for testing Git\")"
+													"console.log(\"New String for testing Git\")\r",
+													""
 												],
 												"type": "text/javascript",
 												"packages": {}
