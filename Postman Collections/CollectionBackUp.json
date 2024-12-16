@@ -74,7 +74,8 @@
 													"",
 													"//Changes from Fork",
 													"",
-													"//Main: Test String for changes and update Source"
+													"",
+													"//Fork: Test String for changes and update Source"
 												],
 												"type": "text/javascript",
 												"packages": {}
