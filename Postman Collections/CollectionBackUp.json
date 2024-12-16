@@ -59,8 +59,18 @@
 													"    }\r",
 													"});\r",
 													"\r",
-													"console.log(\"New String for testing Git\")\r",
-													""
+													"console.log(\"New String for testing Git\")"
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										},
+										{
+											"listen": "prerequest",
+											"script": {
+												"id": "7d50662b-bf20-4f6b-9858-b812dd2c26df",
+												"exec": [
+													"console.log(\"New String for testing Fork\")"
 												],
 												"type": "text/javascript",
 												"packages": {}
