@@ -57,7 +57,9 @@
 													"            pm.expect(response.code).to.eql(200);\r",
 													"        });\r",
 													"    }\r",
-													"});"
+													"});\r",
+													"\r",
+													"console.log(\"New String for testing Git\")"
 												],
 												"type": "text/javascript",
 												"packages": {}
