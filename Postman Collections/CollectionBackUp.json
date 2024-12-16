@@ -201,7 +201,9 @@
 													"                        // Записываем значение в переменную коллекции",
 													"                        pm.environment.set(\"putId\", putId);",
 													"                    }",
-													"                });"
+													"                });",
+													"",
+													"//Test String fork 1"
 												],
 												"type": "text/javascript",
 												"packages": {}
